@@ -1,0 +1,34 @@
+C:\Users\brand\source\repos\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.deps.json
+C:\Users\brand\source\repos\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.dll
+C:\Users\brand\source\repos\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.pdb
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\View\DetallesDeEmpleado.xaml.g.cs
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\View\PaginaDeEmpleados.xaml.g.cs
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfo.cs
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.dll
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\refint\CRUD.dll
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.pdb
+C:\Users\brand\source\repos\CRUD\CRUD\obj\Debug\netstandard2.0\ref\CRUD.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\View\DetallesDeEmpleado.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\View\PaginaDeEmpleados.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\refint\CRUD.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CRUD\CRUD\obj\Debug\netstandard2.0\ref\CRUD.dll

@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\bin\Debug\netstandard2.0\PlayerApp.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\bin\Debug\netstandard2.0\PlayerApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\bin\Debug\netstandard2.0\PlayerApp.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\refint\PlayerApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\PlayerApp.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PlayerApp\PlayerApp\obj\Debug\netstandard2.0\ref\PlayerApp.dll

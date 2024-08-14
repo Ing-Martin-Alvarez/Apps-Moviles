@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\bin\Debug\netstandard2.0\VistaCarrusel.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\bin\Debug\netstandard2.0\VistaCarrusel.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\bin\Debug\netstandard2.0\VistaCarrusel.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\refint\VistaCarrusel.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\VistaCarrusel.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\VistaCarrusel\VistaCarrusel\obj\Debug\netstandard2.0\ref\VistaCarrusel.dll

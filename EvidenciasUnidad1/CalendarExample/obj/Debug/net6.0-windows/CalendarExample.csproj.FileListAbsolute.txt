@@ -1,0 +1,17 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\bin\Debug\net6.0-windows\CalendarExample.exe
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\bin\Debug\net6.0-windows\CalendarExample.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\bin\Debug\net6.0-windows\CalendarExample.runtimeconfig.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\bin\Debug\net6.0-windows\CalendarExample.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\bin\Debug\net6.0-windows\CalendarExample.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.Form1.resources
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.csproj.GenerateResource.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\refint\CalendarExample.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\CalendarExample.genruntimeconfig.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\CalendarExample\obj\Debug\net6.0-windows\ref\CalendarExample.dll

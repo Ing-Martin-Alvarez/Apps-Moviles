@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2l1onxSJ59cJ9efi7T5a0CElDZw6ruvcphLGAWgd7acBjfcSRRpDT/xGNW7EL34DgNEjdwr9XN8UPg76/ZEbzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EvilDeath\\Documents\\TEC NM\\DAMP\\XAMARIN\\Navegacion\\Navegacion.iOS\\Navegacion.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculadoraIMCxam.MainPage">
+
+    <StackLayout>
+        <Grid>
+            <Image Source="Libreta_Mate.jpg" Aspect="AspectFill" />
+        </Grid>
+
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora de IMC" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        
+        <Label Text="Peso en Kg:" TextColor="Black" FontSize="Medium"></Label>
+        <Entry x:Name="pesito"></Entry>
+        
+        <Label Text="Altura en metros" TextColor="Black" FontSize="Medium"></Label>
+        <Entry x:Name="altura"></Entry>
+        
+        <Button Text="CalcularIMC" x:Name="btnoperacion" Clicked="btnoperacion_Clicked" BorderWidth="0" BorderColor="Transparent" BackgroundColor="Green" HeightRequest="50" WidthRequest="50" BorderRadius="25" TextColor="White"></Button>
+        
+        <Label Text="......" TextColor="Black" FontSize="Medium" x:Name="Resultado"></Label>
+    </StackLayout>
+
+</ContentPage>

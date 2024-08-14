@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\bin\Debug\netstandard2.0\CalculadoraIMCxam.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\bin\Debug\netstandard2.0\CalculadoraIMCxam.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\bin\Debug\netstandard2.0\CalculadoraIMCxam.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\refint\CalculadoraIMCxam.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\CalculadoraIMCxam.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\CalculadoraIMCxam\CalculadoraIMCxam\obj\Debug\netstandard2.0\ref\CalculadoraIMCxam.dll

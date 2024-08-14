@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\bin\Debug\netstandard2.0\ListaMunicipios.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\bin\Debug\netstandard2.0\ListaMunicipios.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\bin\Debug\netstandard2.0\ListaMunicipios.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\refint\ListaMunicipios.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ListaMunicipios.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ListaMunicipios\ListaMunicipios\obj\Debug\netstandard2.0\ref\ListaMunicipios.dll

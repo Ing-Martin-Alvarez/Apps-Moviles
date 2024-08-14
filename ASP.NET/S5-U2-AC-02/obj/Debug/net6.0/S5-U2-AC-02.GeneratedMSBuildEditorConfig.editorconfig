@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = S5_U2_AC_02
+build_property.RootNamespace = S5_U2_AC_02
+build_property.ProjectDir = C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\S5-U2-AC-02\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\S5-U2-AC-02
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/modeloes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9kZWxvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/modeloes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9kZWxvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/modeloes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9kZWxvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/modeloes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9kZWxvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/modeloes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW9kZWxvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EvilDeath/Documents/TEC NM/DAMP/EvidenciasUnidad1/S5-U2-AC-02/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g01jr1b8z4

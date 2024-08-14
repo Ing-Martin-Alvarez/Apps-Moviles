@@ -1,0 +1,10 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\About.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Courses.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Personal.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.CoreCompileInputs.cache

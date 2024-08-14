@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VistaCarrusel.MainPage">
+
+    <ContentPage>
+        <StackLayout Orientation="Vertical">
+            <Label Text="First Page" FontSize="Large"></Label>
+            <Image Source="https://pbs.twimg.com/media/ErF5Qq1XIAEFS2s.jpg" />
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Second Page" FontSize="Large"></Label>
+            <Image Source="https://static-cdn.jtvnw.net/jtv_user_pictures/8c57b263-400c-4870-8d03-cc7f7d8d6f29-profile_image-300x300.png" />
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Third Page" FontSize="Large"></Label>
+            <Image Source="https://i.pinimg.com/originals/53/e2/ed/53e2edf19cf92db1ff9344af553b7e16.jpg" />
+        </StackLayout>
+    </ContentPage>
+
+</CarouselPage>

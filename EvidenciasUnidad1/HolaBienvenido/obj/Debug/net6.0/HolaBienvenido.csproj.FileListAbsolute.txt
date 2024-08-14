@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\bin\Debug\net6.0\HolaBienvenido.exe
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\bin\Debug\net6.0\HolaBienvenido.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\bin\Debug\net6.0\HolaBienvenido.runtimeconfig.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\bin\Debug\net6.0\HolaBienvenido.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\bin\Debug\net6.0\HolaBienvenido.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\refint\HolaBienvenido.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\HolaBienvenido.genruntimeconfig.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\HolaBienvenido\obj\Debug\net6.0\ref\HolaBienvenido.dll

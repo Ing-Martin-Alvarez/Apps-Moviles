@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navegacion.MainPage"
+            xmlns:local="clr-namespace:Navegacion"
+            SelectedTabColor="Beige"
+            UnselectedTabColor="Chocolate"
+            BarBackgroundColor="Azure"
+            
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom">
+            <!--Esto ultimo cambia la barra de comandos a inferior-->
+    
+    <local:About Title="About" IconImageSource="emoteahribaka.png"/>
+    <local:Courses Title="Courses" IconImageSource="courses"/>
+    <local:Personal Title="Personal" IconImageSource="personal"/>
+
+
+</TabbedPage>
+    

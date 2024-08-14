@@ -1,0 +1,32 @@
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.deps.json
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.dll
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.pdb
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\InfoEstudiantes.xaml.g.cs
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.AssemblyInfo.cs
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.dll
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\refint\PasarDatosAOtroFormulario.dll
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.pdb
+C:\Users\brand\source\repos\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\ref\PasarDatosAOtroFormulario.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\bin\Debug\netstandard2.0\PasarDatosAOtroFormulario.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\InfoEstudiantes.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\refint\PasarDatosAOtroFormulario.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\PasarDatosAOtroFormulario.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PasarDatosAOtroFormulario\PasarDatosAOtroFormulario\obj\Debug\netstandard2.0\ref\PasarDatosAOtroFormulario.dll

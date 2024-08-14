@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageNavigation.Desarrolladores">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Desarrolladores de la App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Label Text="Autores de la aplicación:" FontSize="Large" FontAttributes="Bold" />
+            <Label Text="Martin Alvarez Salazar" FontSize="Medium" />
+            <Label Text="Brandon Ricardo Marquez Larios" FontSize="Medium"/>
+            <Label Text="Jose Francisco Cardenas Torres" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

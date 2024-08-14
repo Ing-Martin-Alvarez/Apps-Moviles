@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaMunicipios.MainPage" 
+             xmlns:s1="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin">
+    
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Municipios" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <ListView x:Name="ListaMunicipios" ItemSelected="ListaMunicipios_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <s1:CircleImage Source="{Binding Imagenurl}" HeightRequest ="40" WidthRequest ="40"></s1:CircleImage>
+                            <StackLayout Orientation="Horizontal" Spacing="0">
+                                <Label Text="{Binding nombre}" FontSize="Medium" TextColor="White" FontAttributes="Bold"></Label>
+                                <Label Text=" - "></Label>
+                                <Label Text="{Binding poblacion}" ></Label>
+                                <Label Text=" - "></Label>
+                                <Label Text="{Binding superficie}"></Label>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

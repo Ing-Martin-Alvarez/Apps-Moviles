@@ -1,0 +1,16 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\refint\ModalPageNavigation.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ModalPageNavigation.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\bin\Debug\netstandard2.0\ModalPageNavigation.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\bin\Debug\netstandard2.0\ModalPageNavigation.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\bin\Debug\netstandard2.0\ModalPageNavigation.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\ModalPageNavigation\ModalPageNavigation\obj\Debug\netstandard2.0\ref\ModalPageNavigation.dll

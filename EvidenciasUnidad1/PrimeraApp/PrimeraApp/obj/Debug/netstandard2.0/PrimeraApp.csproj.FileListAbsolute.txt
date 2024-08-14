@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\refint\PrimeraApp.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\ref\PrimeraApp.dll

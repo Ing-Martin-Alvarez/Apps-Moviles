@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PasarDatosAOtroFormulario.MainPage"
+             Title="Estudiantes">
+
+    <ListView x:Name="myListView" ItemSelected="myListView_ItemSelected" >
+        <ListView.ItemTemplate >
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="{Binding  ImageUrl}"
+                           HeightRequest="40"
+                           WidthRequest="40" 
+                           Aspect="AspectFill"
+                           Margin="0,0,0,0">
+                            <Image.Clip>
+                                <EllipseGeometry Center="20,20" RadiusX="20" RadiusY="20" />
+                            </Image.Clip>
+                        </Image>
+                        <StackLayout HorizontalOptions  ="StartAndExpand" Spacing="0">
+                            <Label Text="{Binding  Name}"
+                                   FontSize ="Medium"
+                                   TextColor="White"
+                                   FontAttributes="Bold"/>
+                            <Label Text="{Binding  Status}"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

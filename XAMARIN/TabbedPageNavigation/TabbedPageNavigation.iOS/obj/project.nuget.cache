@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EANBJZEMFh0js+RWj5eZ2GrQUUdyYk2tAlxMiY+3dh1D2d0zc7QzckeYlv50IQoht4JUtQDNBg28OQ6MTe8fUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EvilDeath\\Documents\\TEC NM\\DAMP\\XAMARIN\\TabbedPageNavigation\\TabbedPageNavigation.iOS\\TabbedPageNavigation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

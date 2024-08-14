@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VamosConLaApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Example buttons" HorizontalTextAlignment="Center" TextColor="White" FontSize="24"></Label>
+        <Label Text="_____" x:Name="txtcampo" FontSize="Medium"></Label>
+        <Entry x:Name="txtcaja"></Entry>
+        <Button Text="Presioname" x:Name="btnaccion" Clicked="Button_Clicked"></Button>
+        <Button Text="Borrar" x:Name="Borrar" Clicked="Borrar_Clicked"></Button>
+        <Button Text="Salir" x:Name="Salir" Clicked="Salir_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>

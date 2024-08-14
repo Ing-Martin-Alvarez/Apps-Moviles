@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HolaBienvenido/1.0.0": {
+        "runtime": {
+          "HolaBienvenido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HolaBienvenido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

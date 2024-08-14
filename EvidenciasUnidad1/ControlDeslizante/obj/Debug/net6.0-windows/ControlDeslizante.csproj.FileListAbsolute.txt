@@ -1,0 +1,17 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\bin\Debug\net6.0-windows\ControlDeslizante.exe
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\bin\Debug\net6.0-windows\ControlDeslizante.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\bin\Debug\net6.0-windows\ControlDeslizante.runtimeconfig.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\bin\Debug\net6.0-windows\ControlDeslizante.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\bin\Debug\net6.0-windows\ControlDeslizante.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.Form1.resources
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.csproj.GenerateResource.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\refint\ControlDeslizante.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ControlDeslizante.genruntimeconfig.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\ControlDeslizante\obj\Debug\net6.0-windows\ref\ControlDeslizante.dll

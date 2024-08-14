@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageNavigation.MainPage"
+            xmlns:local="clr-namespace:TabbedPageNavigation"
+            NavigationPage.HasNavigationBar="False"
+            BarBackgroundColor="black"
+            SelectedTabColor="Orange"
+            UnselectedTabColor="White"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom">
+
+    <local:Jugadores Title="Jugadores" IconImageSource="jugadores"/>
+    <local:Detalles Title="Detalles" IconImageSource="detalles"/>
+    <local:Desarrolladores Title="Desarrolladores" IconImageSource="desarrolladores"/>
+
+</TabbedPage>

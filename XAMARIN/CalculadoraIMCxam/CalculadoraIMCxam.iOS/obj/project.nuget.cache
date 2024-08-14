@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwb0MG1ChHymxDfjhOX+jBs2a/bMSPQejedsI07n8cTe2gag2x4HnLg69MoU910CyQpG+4Fr76tegXu9Q1UEDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EvilDeath\\Documents\\TEC NM\\DAMP\\XAMARIN\\CalculadoraIMCxam\\CalculadoraIMCxam.iOS\\CalculadoraIMCxam.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

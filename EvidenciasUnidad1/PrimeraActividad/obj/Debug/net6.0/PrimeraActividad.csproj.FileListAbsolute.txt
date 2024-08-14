@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\bin\Debug\net6.0\PrimeraActividad.exe
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\bin\Debug\net6.0\PrimeraActividad.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\bin\Debug\net6.0\PrimeraActividad.runtimeconfig.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\bin\Debug\net6.0\PrimeraActividad.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\bin\Debug\net6.0\PrimeraActividad.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\refint\PrimeraActividad.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\PrimeraActividad.genruntimeconfig.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\PrimeraActividad\obj\Debug\net6.0\ref\PrimeraActividad.dll

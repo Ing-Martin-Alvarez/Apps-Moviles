@@ -1,0 +1,15 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\bin\Debug\netstandard2.0\PrimerContacto.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\bin\Debug\netstandard2.0\PrimerContacto.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\bin\Debug\netstandard2.0\PrimerContacto.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\refint\PrimerContacto.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\PrimerContacto.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\XAMARIN\PrimerContacto\PrimerContacto\obj\Debug\netstandard2.0\ref\PrimerContacto.dll

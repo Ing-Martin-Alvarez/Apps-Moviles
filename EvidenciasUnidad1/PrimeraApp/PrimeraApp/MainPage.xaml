@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Bienvenidos!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Martin Alvarez Salazar" FontSize="Title" Padding="10" TextColor="Orange"/>
+        <Label Text="Ingeniero en Sistemas Computacionales" FontSize="Title" Padding="10" TextColor="Orange"/>
+        <Label Text="Tecnico en Dibujo" FontSize="Title" Padding="10" TextColor="Orange"/>
+        <Label Text="3123189829" FontSize="Title" Padding="10" TextColor="Orange"/>
+        <Label Text="11vo Semestre" FontSize="Title" Padding="10" TextColor="Orange"/>
+        <Button Text="Puchale Aqui" BackgroundColor="Red" TextColor="White" Scale="1.5"></Button>
+    </StackLayout>
+
+</ContentPage>

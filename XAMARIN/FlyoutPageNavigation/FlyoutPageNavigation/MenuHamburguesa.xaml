@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:FlyoutPageNavigation"
+             x:Class="FlyoutPageNavigation.MenuHamburguesa"
+             Title="Menu Hamburguesa">
+    
+    <StackLayout>
+        <ListView x:Name="ListaVistas" x:FieldModifier="public">
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type views:ClaseFlyout}">
+                    <views:ClaseFlyout titulo="ArconteAnemoxaml" pagina="{x:Type views:ArconteAnemoxaml}"/>
+                    <views:ClaseFlyout titulo="ArconteGeo" pagina="{x:Type views:ArconteGeo}"/>
+                    <views:ClaseFlyout titulo="ArconteElectro" pagina="{x:Type views:ArconteElectro}"/>
+                    <views:ClaseFlyout titulo="ArconteDendro" pagina="{x:Type views:ArconteDendro}"/>
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="125"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding titulo}"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>         
+    </StackLayout>
+    
+</ContentPage>

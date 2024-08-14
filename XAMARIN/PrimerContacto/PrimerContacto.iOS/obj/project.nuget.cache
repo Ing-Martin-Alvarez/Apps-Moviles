@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLPtsyi+mBuojy3YQWJdSyLc4wny2GYNy3UqJ64o76TC10vpJ+cYj3VaRk2BM6u4eHBUrF3QVt1jTpejpw3xuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EvilDeath\\Documents\\TEC NM\\DAMP\\XAMARIN\\PrimerContacto\\PrimerContacto.iOS\\PrimerContacto.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\EvilDeath\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

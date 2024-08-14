@@ -1,0 +1,17 @@
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.csproj.AssemblyReference.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.Form1.resources
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.csproj.GenerateResource.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.AssemblyInfoInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.AssemblyInfo.cs
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.csproj.CoreCompileInputs.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\bin\Debug\net6.0-windows\Contador.exe
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\bin\Debug\net6.0-windows\Contador.deps.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\bin\Debug\net6.0-windows\Contador.runtimeconfig.json
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\bin\Debug\net6.0-windows\Contador.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\bin\Debug\net6.0-windows\Contador.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\refint\Contador.dll
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.pdb
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\Contador.genruntimeconfig.cache
+C:\Users\EvilDeath\Documents\TEC NM\DAMP\EvidenciasUnidad1\Contador\obj\Debug\net6.0-windows\ref\Contador.dll

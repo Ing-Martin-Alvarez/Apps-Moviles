@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlayerApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Jugadores" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <ListView x:Name="ListaJugadores" ItemsSource="{Binding jugadores}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                <ViewCell>
+                    <StackLayout>
+                            <Label Text="{Binding nombre}" FontAttributes="Bold"></Label>
+                            <Label Text="{Binding equipo}" FontSize="Small"></Label>
+                            <Image Source="{Binding imagen}" WidthRequest="200" HeightRequest="200"></Image>
+                        </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
